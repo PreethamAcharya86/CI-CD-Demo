@@ -1,2 +1,2 @@
-# first_project
+# CI/CD
 CI/CD pipeline demonstration.

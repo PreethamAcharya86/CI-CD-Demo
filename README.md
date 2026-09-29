@@ -1,2 +1,2 @@
 # first_project
-This is my first project on GitHub.
+CI/CD pipeline demonstration.
